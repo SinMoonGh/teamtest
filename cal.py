@@ -10,3 +10,5 @@ def minus():
   num2 = int(input("두번째 숫자 입력: "))
   result = num1 - num2
   return result
+
+# ektl
