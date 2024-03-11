@@ -1,3 +1,4 @@
+
 # 사칙연산 ㄱㄱ
 
 # 나누기
@@ -12,3 +13,7 @@ def minus():
   return result
 
 # ektl
+
+def add(a, b):
+    sum = a+ b
+    return sum
