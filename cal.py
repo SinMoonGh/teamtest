@@ -17,3 +17,6 @@ def minus():
 def add(a, b):
     sum = a+ b
     return sum
+
+# 충돌확인
+# 12312132
